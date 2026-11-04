@@ -1,0 +1,11 @@
+# Ambiente virtual
+manim-env/
+
+# Vídeos e imagens gerados pelo Manim
+media/
+
+# Cache do Python
+__pycache__/
+
+# Dados do Olist
+olist_data/*.csv
