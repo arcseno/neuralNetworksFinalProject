@@ -9,3 +9,9 @@ __pycache__/
 
 # Dados do Olist
 olist_data/*.csv
+slides/
+apresentacao_assets/
+apresentacao.html
+apresentacao.pdf
+apresentacao.pptx
+.ipynb_checkpoints/

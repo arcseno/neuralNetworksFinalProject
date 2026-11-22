@@ -1,7 +1,9 @@
-manim
+manim==0.21.0
+manim-slides
+pillow<13
+scikit-learn==1.9.1
 numpy
 pandas
 matplotlib
-scikit-learn
-torch
 ipykernel
+torch
